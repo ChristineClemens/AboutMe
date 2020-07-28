@@ -32,5 +32,5 @@
 * A customized GitHub profile
 
 
-**GitHub Repository:**       
-**Deployed Application:** 
+**GitHub Repository:** https://github.com/ChristineClemens/AboutMe       
+**Deployed Application:** https://christineclemens.github.io/AboutMe/
